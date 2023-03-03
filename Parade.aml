@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="morpheus.xsl"?>
+<arks_morpheus_layout xmlns:arks_morpheus_layout="http://www.morpheussoftware.net/">
+	<options>
+		<version value="3.11"/>
+		<size width="1422" height="1022"/>
+		<fps value="15"/>
+	</options>
+	<morphs>
+		<morph pic1="Éric Delaunay Parade.jpg" pic2="Jean-Jacques Toussaint Parade.jpg">
+			<options>
+				<frames morph="15"/>
+				<smooth value="1"/>
+				<background color="#ffffff"/>
+				<drawdots scheme="8colors" color="#000000" opacity="255" style="square" size="5" inpics="1"/>
+				<drawlines scheme="solid" color="#00ff00" opacity="255" size="1" inpics="1"/>
+				<drawtris scheme="solid" color="#0000ff" opacity="255" size="1" inpics="0"/>
+			</options>
+			<dots>
+				<dot x1="205.175" y1="367.743" x2="205.175" y2="367.743"/>
+				<dot x1="125.082" y1="203.57" x2="139.035" y2="202.407"/>
+				<dot x1="132.64" y1="141.942" x2="132.64" y2="141.942"/>
+				<dot x1="121.593" y1="113.453" x2="152.988" y2="82.058"/>
+				<dot x1="202.989" y1="67.523" x2="200.663" y2="72.174"/>
+				<dot x1="282.639" y1="159.384" x2="258.802" y2="146.012"/>
+				<dot x1="294.849" y1="261.128" x2="251.826" y2="250.663"/>
+				<dot x1="117.523" y1="269.849" x2="95.43" y2="261.128"/>
+				<dot x1="134.965" y1="209.965" x2="176.244" y2="196.593"/>
+				<dot x1="157.639" y1="216.361" x2="190.197" y2="201.244"/>
+				<dot x1="169.849" y1="247.756" x2="211.128" y2="211.128"/>
+				<dot x1="129.151" y1="241.361" x2="159.384" y2="211.128"/>
+				<dot x1="124.5" y1="187.872" x2="147.756" y2="165.198"/>
+				<dot x1="140.198" y1="190.779" x2="175.663" y2="161.128"/>
+				<dot x1="163.454" y1="186.128" x2="193.105" y2="154.733"/>
+				<dot x1="239.616" y1="216.36" x2="239.616" y2="216.36"/>
+				<dot x1="225.081" y1="250.663" x2="225.081" y2="250.663"/>
+				<dot x1="121.593" y1="267.523" x2="138.453" y2="269.267"/>
+			</dots>
+		</morph>
+		<morph pic2="Rémy Chauvidan Parade.jpg" type="morphlink">
+			<options>
+				<frames morph="15"/>
+				<smooth value="1"/>
+				<background color="#ffffff"/>
+				<drawdots scheme="8colors" color="#000000" opacity="255" style="square" size="5" inpics="1"/>
+				<drawlines scheme="solid" color="#00ff00" opacity="255" size="1" inpics="1"/>
+				<drawtris scheme="solid" color="#0000ff" opacity="255" size="1" inpics="0"/>
+			</options>
+			<dots>
+				<dot x1="205.175" y1="367.743" x2="205.176" y2="367.743"/>
+				<dot x1="139.035" y1="202.407" x2="164.616" y2="212.291"/>
+				<dot x1="132.64" y1="141.942" x2="164.616" y2="155.894"/>
+				<dot x1="152.988" y1="82.058" x2="152.988" y2="87.873"/>
+				<dot x1="200.663" y1="72.174" x2="207.641" y2="74.501"/>
+				<dot x1="258.802" y1="146.012" x2="257.059" y2="130.314"/>
+				<dot x1="251.826" y1="250.663" x2="247.757" y2="277.407"/>
+				<dot x1="95.43" y1="261.128" x2="81.478" y2="269.85"/>
+				<dot x1="176.244" y1="196.593" x2="246.011" y2="207.058"/>
+				<dot x1="197.174" y1="196.593" x2="262.29" y2="202.407"/>
+				<dot x1="211.128" y1="211.128" x2="230.895" y2="223.337"/>
+				<dot x1="159.384" y1="211.128" x2="212.29" y2="212.291"/>
+				<dot x1="147.756" y1="165.198" x2="195.43" y2="152.989"/>
+				<dot x1="175.663" y1="161.128" x2="222.756" y2="155.314"/>
+				<dot x1="193.105" y1="154.733" x2="242.524" y2="148.919"/>
+				<dot x1="239.616" y1="216.36" x2="243.104" y2="214.034"/>
+				<dot x1="225.081" y1="250.663" x2="215.197" y2="264.035"/>
+				<dot x1="138.453" y1="269.267" x2="97.174" y2="268.104"/>
+			</dots>
+		</morph>
+		<morph pic2="Éric Delaunay Parade.jpg" type="morphlink">
+			<options>
+				<frames morph="15"/>
+				<smooth value="1"/>
+				<background color="#ffffff"/>
+				<drawdots scheme="8colors" color="#000000" opacity="255" style="square" size="5" inpics="1"/>
+				<drawlines scheme="solid" color="#00ff00" opacity="255" size="1" inpics="1"/>
+				<drawtris scheme="solid" color="#0000ff" opacity="255" size="1" inpics="0"/>
+			</options>
+			<dots>
+				<dot x1="1555.74" y1="2002.31" x2="205.175" y2="367.743"/>
+				<dot x1="139.035" y1="202.407" x2="123.337" y2="218.686"/>
+				<dot x1="132.64" y1="141.942" x2="122.175" y2="141.361"/>
+				<dot x1="152.988" y1="82.058" x2="152.988" y2="82.058"/>
+				<dot x1="200.663" y1="72.174" x2="207.058" y2="66.941"/>
+				<dot x1="258.802" y1="146.012" x2="285.546" y2="162.872"/>
+				<dot x1="251.826" y1="250.663" x2="280.896" y2="260.547"/>
+				<dot x1="95.43" y1="261.128" x2="111.128" y2="270.43"/>
+				<dot x1="176.244" y1="196.593" x2="134.965" y2="215.198"/>
+				<dot x1="197.174" y1="196.593" x2="156.476" y2="215.198"/>
+				<dot x1="211.128" y1="211.128" x2="155.895" y2="243.105"/>
+				<dot x1="159.384" y1="211.128" x2="127.989" y2="241.942"/>
+				<dot x1="147.756" y1="165.198" x2="126.244" y2="189.035"/>
+				<dot x1="175.663" y1="161.128" x2="140.779" y2="192.523"/>
+				<dot x1="193.105" y1="154.733" x2="161.71" y2="187.873"/>
+				<dot x1="239.616" y1="216.36" x2="212.29" y2="239.616"/>
+				<dot x1="225.081" y1="250.663" x2="225.081" y2="250.663"/>
+				<dot x1="138.453" y1="269.267" x2="119.267" y2="268.104"/>
+			</dots>
+		</morph>
+	</morphs>
+</arks_morpheus_layout>

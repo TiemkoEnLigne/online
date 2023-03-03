@@ -1,0 +1,56 @@
+@charset "iso-8859-1";
+
+BODY {
+FONT-SIZE: 12px; FONT-FAMILY: arial,verdana,helvetica,sans-serif; POSITION: absolute
+}
+
+P {
+FONT-SIZE: 12px; FONT-FAMILY: arial,verdana,helvetica,sans-serif; POSITION: absolute
+}
+
+TABLE {
+FONT-SIZE: 12px; FONT-FAMILY: arial,verdana,helvetica,sans-serif; POSITION: absolute
+}
+
+TD {
+FONT-WEIGHT: bold;  FONT-SIZE: 18px; FONT-FAMILY: verdana, arial, sans-serif;  POSITION: absolute 
+}
+		
+		
+TBODY 
+
+.titre {
+COLOR: #4F4D43; FONT-WEIGHT: bold; FONT-SIZE: 14px; MARGIN-RIGHT:25px; MARGIN-BOTTOM:18px; TEXT-ALIGN:center; FONT-FAMILY: Arial, sans-serif; POSITION: absolute
+}
+
+.avanttitre {
+COLOR: #000000; FONT-WEIGHT: bold; FONT-SIZE: 12px; TEXT-ALIGN: right; MARGIN-RIGHT:81px; MARGIN-bottom:10px; FONT-FAMILY: Arial, sans-serif;
+POSITION: absolute
+}
+
+.pretitre {
+COLOR: #544A42; FONT-WEIGHT: bold;  FONT-SIZE: 17px; TEXT-ALIGN: center;  FONT-FAMILY: Arial, sans-serif; POSITION: absolute
+}
+
+.menu1 {
+COLOR: #FFEEC5; FONT-WEIGHT: bold;  FONT-SIZE: 14px; MARGIN-LEFT:21px; MARGIN-TOP:4px; MARGIN-BOTTOM:4px; FONT-FAMILY: Arial, sans-serif; POSITION: absolute 
+}
+
+		a:visited {color: #C2C2C4 }
+		a:hover {color: #F1F1F1}
+
+.menu2 {
+COLOR: #A2A2A4; FONT-WEIGHT: bold;  FONT-SIZE: 11px; MARGIN-TOP:4px; MARGIN-BOTTOM:4px; MARGIN-LEFT:35px; FONT-FAMILY: Arial, sans-serif; POSITION: absolute
+}
+	
+		a {text-decoration: none; COLOR: #f1f1f1 }
+		a:visited {color: #FFEEC5 }
+		a:hover {color: #C2C2C4}
+		
+.narr {
+COLOR: #F1F1F1; FONT-WEIGHT: bold;  FONT-SIZE: 12px; TEXT-Align= Center MARGIN-LEFT:35px; FONT-FAMILY: Arial, sans-serif; POSITION: absolute
+}
+
+.narr2 {
+COLOR: #000000; POSITION: absolute
+}	
