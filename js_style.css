@@ -9,7 +9,7 @@ img {
 		a:hover {color: #C0C0C0}
 
 .narrctr { 
-	COLOR: #FFFFFF; FONT-WEIGHT: bold;  FONT-SIZE: 20px; TEXT-Align:justify; FONT-FAMILY: Times New Roman, sans-serif }
+	COLOR: #FFFFFF; FONT-WEIGHT: normal;  FONT-SIZE: 20px; TEXT-Align:justify; FONT-FAMILY: Times New Roman, sans-serif }
 
 .deboco {
 	COLOR: #03C1D7; FONT-WEIGHT: bold;  FONT-SIZE: 1.5em; MARGIN-LEFT:1em; MARGIN-TOP:1em; MARGIN-BOTTOM:0.5em; FONT-FAMILY: Times New Roman, sans-serif }
@@ -17,7 +17,7 @@ img {
 		a:hover {color: #F1F1F1}
 
 .menu2 {
-	COLOR: #FFEEC5; FONT-WEIGHT: bold;  FONT-SIZE: 1.1em; MARGIN-LEFT:2em; MARGIN-TOP:0em; MARGIN-BOTTOM:0em; FONT-FAMILY: Times New Roman, sans-serif }
+	COLOR: #FFEEC5; FONT-WEIGHT: normal;  FONT-SIZE: 1.1em; MARGIN-LEFT:2em; MARGIN-TOP:0em; MARGIN-BOTTOM:0em; FONT-FAMILY: Times New Roman, sans-serif }
 	
 		a {text-decoration: none; COLOR: #f1f1f1 }
 		a:visited {color: #FFEEC5 }
