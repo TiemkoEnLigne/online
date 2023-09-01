@@ -19,19 +19,19 @@ if (document.images) {
 		Mil = new Image
 		Apr = new Image
 
-		Accl.src = "Accueil Times.png"
-		Avnt.src = "Avant Times.png"
-		Mil.src = "1986-1995 Times.png"
-		Apr.src = "Après1995 Times.png"
+		Accl.src = "Accueil FA.png"
+		Avnt.src = "Avant FA.png"
+		Mil.src = "1986-1995 FA.png"
+		Apr.src = "Après1995 FA.png"
 	
 		Acclx = new Image
 		Avntx = new Image
 		Milx = new Image
 		Aprx = new Image
 
-		Acclx.src = "Accueilx Times.png"
-		Avntx.src = "Avantx Times.png"
-		Milx.src = "1986-1995x Times.png"
-		Aprx.src = "Après1995x Times.png"
+		Acclx.src = "Accueilx FA.png"
+		Avntx.src = "Avantx FA.png"
+		Milx.src = "1986-1995x FA.png"
+		Aprx.src = "Après1995x FA.png"
 
 	}
